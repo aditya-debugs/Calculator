@@ -44,12 +44,12 @@ section {
   background-color: #8890a5;
 }
 
-.blue,
-.blue:focus {
+.yellow,
+.yellow:focus {
   background-color: #fec23e;
 }
 
-.blue:hover {
+.yellow:hover {
   background-color: #f1dc4b;
 }
 
